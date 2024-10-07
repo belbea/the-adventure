@@ -1,0 +1,23 @@
+body{
+background-color: rgb(41, 177, 64); 
+color: white;
+font-family: "Marmelad", sans-serif; 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button{
+background-color: greenyellow;
+color: rgb(36, 126, 77) ;
+font-family: "Bai Jamjure", sans-serif ;
+
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
